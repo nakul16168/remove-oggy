@@ -10,4 +10,4 @@ This is because 'oggy' is bad.
 
 The code works according to the intention.
 
-I have made the changes and 'oggy' has been removed from the world.
+I have made the changes and 'oggy' is removed from the world.
