@@ -2,7 +2,7 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+This program intends to remove strings containing 'oggy' from a list of strings as Sudeep wants to remove Oggy from the world.
 
 ## Method
 
